@@ -1,10 +1,11 @@
 {
+  "homepage": "https://zdebski.github.io/smooth",
   "name": "smooth-transition",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel index.html",
+    "dev": "npm run dev",
     "build": "parcel build index.html"
   },
   "keywords": [],
@@ -18,4 +19,5 @@
     "@dogstudio/highway": "^2.1.2",
     "gsap": "^2.1.3"
   }
+    
 }
